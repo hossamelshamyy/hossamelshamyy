@@ -20,6 +20,8 @@
 <a href="https://instagram.com/7uusam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7uusam" height="30" width="40" /></a>
 <a href="https://medium.com/@hossamelshamyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hossamelshamyy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hossamelshamyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hossamelshamyy" height="30" width="40" /></a>
+<a href="https://discord.gg/#9881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9881" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
