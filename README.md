@@ -9,14 +9,16 @@
 
 - 📫 How to reach me **hossamelshamyy@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15NPereGHWrGOjCTVLmJIO3o_nURcYVVt/view?usp=share_link](https://drive.google.com/file/d/15NPereGHWrGOjCTVLmJIO3o_nURcYVVt/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15NPereGHWrGOjCTVLmJIO3o_nURcYVVt](https://drive.google.com/file/d/15NPereGHWrGOjCTVLmJIO3o_nURcYVVt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hossamelshamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossamelshamy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15043699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15043699" height="30" width="40" /></a>
+<a href="https://kaggle.com/hossamelshamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hossamelshamy" height="30" width="40" /></a>
 <a href="https://fb.com/hossamelshamyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hossamelshamyy" height="30" width="40" /></a>
 <a href="https://instagram.com/7uusam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7uusam" height="30" width="40" /></a>
+<a href="https://medium.com/@hossamelshamyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hossamelshamyy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/hossamelshamyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hossamelshamyy" height="30" width="40" /></a>
 </p>
 
